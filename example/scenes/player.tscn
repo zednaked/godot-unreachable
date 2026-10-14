@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://bplayer00001"]
+
+[ext_resource type="Texture2D" uid="uid://cplayerpng01" path="res://art/player.png" id="1"]
+[ext_resource type="FontFile" path="res://fonts/body.ttf" id="2"]
+
+[node name="Player" type="Sprite2D"]
+texture = ExtResource("1")

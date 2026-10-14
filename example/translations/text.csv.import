@@ -1,0 +1,10 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://ctexts000001"
+
+[deps]
+
+source_file="res://translations/text.csv"
+dest_files=["res://translations/text.en.translation", "res://translations/text.pt.translation"]

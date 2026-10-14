@@ -1,0 +1,5 @@
+hero.webp
+size:256,256
+filter:Linear,Linear
+hero_idle
+  bounds:0,0,64,64

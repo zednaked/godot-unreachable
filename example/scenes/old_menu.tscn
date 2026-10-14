@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://boldmenu0001"]
+
+[ext_resource type="Script" path="res://scripts/old_menu.gd" id="1"]
+
+[node name="OldMenu" type="Control"]
+script = ExtResource("1")
